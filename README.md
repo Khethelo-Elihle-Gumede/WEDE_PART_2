@@ -1,7 +1,5 @@
 # WEDE_PART_2
-
-THIS IS MY PART1 README
-# WEDE-POE-Part1
+MY PART 1 README
 This is my WEDE POE part 1 website that I created for a retail store
 This retail store called Quick-Shop needed a website to sell their own clothing products.
 So I decided to create a website using all the knowledge that I gained in doing class work.
