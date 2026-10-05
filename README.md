@@ -15,5 +15,17 @@ I have also added colors to my part 2 website to give it more life and attractio
 All that i have added on this website goes with what is required from me to please my customer which is Quick-Shop, so using all knowledge that i have gained in class and research that i have made
 it has helped me craft this website.
 
+These Are My Website Screenshots.
+<img width="1915" height="941" alt="Screenshot 2026-10-05 141310" src="https://github.com/user-attachments/assets/07b740bd-f7a9-4a5b-94a7-38137490d8a3" />
 
+<img width="1910" height="861" alt="Screenshot 2026-10-05 141007" src="https://github.com/user-attachments/assets/43bc1646-7eb7-4d78-8a81-af6fbbc96eec" />
 
+<img width="1910" height="856" alt="Screenshot 2026-10-05 141043" src="https://github.com/user-attachments/assets/8e3da35b-ef52-4cce-a729-ece05bbdf3b5" />
+
+<img width="1914" height="928" alt="Screenshot 2026-10-05 141117" src="https://github.com/user-attachments/assets/852edb60-383a-4c48-8fbe-4a9afcc44090" />
+
+<img width="1909" height="938" alt="Screenshot 2026-10-05 141149" src="https://github.com/user-attachments/assets/eb3dd4c0-aa4a-46cf-b034-87edd7d4ed2e" />
+
+<img width="1899" height="926" alt="Screenshot 2026-10-05 141218" src="https://github.com/user-attachments/assets/7e4c3aa9-d768-42f4-a193-7b0fa2193b48" />
+
+<img width="1912" height="942" alt="Screenshot 2026-10-05 141246" src="https://github.com/user-attachments/assets/ccab5d30-4006-4479-846e-d548bda1ceeb" />
