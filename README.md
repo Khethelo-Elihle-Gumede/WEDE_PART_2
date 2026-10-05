@@ -14,6 +14,9 @@ I also added pictures on this to show the producks that QUICK-SHOP is selling th
 I have also added colors to my part 2 website to give it more life and attraction for the users that would be using the website.
 All that i have added on this website goes with what is required from me to please my customer which is Quick-Shop, so using all knowledge that i have gained in class and research that i have made
 it has helped me craft this website.
+Using CSS helped me code this website using the right fonts, colors and background colors so that everything can look professional and presentable to both the quick-shop customers and staff.
+I added colors that make sense for a fashion shop website.
+I also avoided color contrasting when i was coding the CSS. The buttons and the background colors were made not to mix and confuse the uses, with also keeping in mind that ease on the eye and kept professional. 
 
 These Are My Website Screenshots.
 
