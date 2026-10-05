@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <!-- Responsive design -->
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     <!-- SEO -->
+     <meta name="description"
+         Content="Quick-Shop is a modern retail clothing store offering affordable and stylish
+         clothing for everyone.">
+         
+    <meta name="keywords"
+        content="Quick-Shop, clothing, fashion, clothes, retail store, shirts, dresses, jeans">
+        
+    <meta name="author" content="Quick-Shop">
+    
+    <title>Quick-Shop | Clothing Store</title>
+
+    <!-- External CSS stylesheet -->
+     <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <!-- ================
+         HEADER
+    =====================-->
+
+    <header class="site-header">
+
+        <div class="container header-content">
+
+
+        <!-- Logo -->
+         <a href="#home" class="logo">
+            <span class="logo-circle">Q</span>
+            <span>Quick<span>-Shop</span></span>
+         </a>
+
+        <!-- Navigation -->
+         <nev class="navigation">
+
+            <ul>
+
+                <li><a href="#home">Home</a></li>
+                <li><a href="#shop">Shop</a></li>
+                <li><a href="#categories">Categories</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#content">Content</a></li>
+            </ul>
+         </nev>
+
+         <!-- Cart -->
+         <a href="#shop" class="cart-button">
+            Cart
+         </a> 
+
+        </div> 
+
+        
+
+    </header>
+
+    <!-- =====================
+        MAIN CONTENT
+    ===================    -->
+
+    <main>
+
+    <!--==============================    
+         HOME/HOME SECTION
+    =========================== -->     
+
+    <section id="home" class="hero">
+
+        <div class="container hero-content">
+
+            <div class="hero-text">
+
+                <p class="small-headiing">
+                WELCOME TO QUICK-SHOP
+                </p>
+
+                <h1>
+                    Fashion that
+                    <span>fits your style.</span>
+                </h1>
+
+                <p>
+                    Discover affordable, comfortable and stylish clothing
+                    for everyday life. Find your next favourite outfit at 
+                    Quick-Shop.
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a href="#shop" class="button primary-button">
+                        Shop Now
+                    </a>
+
+                    <a href="#categories" class="button secondary-button">
+                        View Categories
+                    </a>
+                </div>
+
+                <!-- Hero image -->
+
+                <div class="hero-image">
+
+                    <picture>
+
+                        <source
+                            media="(max-width: 600px)"
+                            srcset="images/tshirt.jpg">
+
+                        <source
+                            media="(max-width: 1000px)"
+                            srcset="images/jacket.jpg">
+                            
+                        <img
+                           src="images/tshirt.jpg"
+                           srcset="
+                                images/tshirt.jpg 500w,
+                                images/jacket.jpg 800w
+                                "
+                           sizes="
+                               (max-width: 600px) 90vw,
+                               (max-width: 1000px) 45vw, 40vw"
+                               
+                           alt="Stylish clothing from Quick-Shop">    
+                    </picture>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- =======================
+        SHOP SECTION
+    =====================    -->
+
+    <section id="shop" class="shop-section">
+
+        <div class="container">
+
+            <div class="section-heading">
+
+                <p class="section-heading">
+                    OUR COLLECTION
+                </p>
+
+                 <h2>
+                    Our Popular Clothing
+                </h2>
+
+                <p>
+                    Explore some of our most popular clothing products available at Quick-Shop.
+                </p>
+            </div>
+        </div>
+
+        <!-- Product Grid -->
+
+        <!-- PRPDUCT 1 -->
+
+        <article class="product-card">
+
+            <div class="product-image">
+
+                <picture>
+
+                    <source
+                        media="(max-width: 600px)"
+                        srcset="images/tshirt.jpg">
+
+                    <img
+                       src="images/tshirt.jpg"
+                       alt="Classic White Quick-Shop T-Shirt"
+                       loading="lazy">    
+                </picture>
+
+                <span class="product-label">
+                    BESTSELLER
+                </span>
+            </div>
+
+            <div class="product-information">
+
+                <p class="product-category">
+                    UNISEX
+                </p>
+
+                <h3>Classic T-Shirt</h3>
+
+                <p>Comfortable cotton T-Shirt suitable for every-day wear.</p>
+
+                <div class="product-bottom">
+
+                    <strong>Price: R149.00</strong>
+
+                    <button type="button">Add to Cart</button>
+
+
+                </div>
+
+
+            </div>
+
+            
+
+        </article>
+
+        <!-- Product 2 -->
+
+        <article class="product-card">
+
+            <div class="product-image">
+
+                <picture>
+
+                    <source
+                        media="(max-width: 600px)"
+                        srcset="images/deminjacket.jpg">
+
+                    <img
+                       src="images/deminjacket.jpg"
+                       alt="Demin Jacket"
+                       loading="lazy">
+                </picture>
+                
+                <span class="product-label">
+                    NEW
+                </span>
+            </div>
+
+            <div class= "product-information">
+
+                <p class="product-category">
+                    Men
+                </p>
+
+                <h3>Demin Jacket</h3>
+
+                <p>
+                Stylish demin jacket suitable for casual occasions.
+                </p>
+
+                <div class="product-bottom">
+
+                <strong>Price: R359.00</strong> 
+                
+                <button type="button">Add to Cart</button>
+
+
+
+                </div>
+
+
+            </div>
+
+        </article>
+
+        <!-- Product 3 -->
+
+        <article class="product-card">
+
+            <div class="product-image">
+
+                <picture>
+
+                    <source
+                        media="(max-width: 600px)"
+                        srcset="images/hoodie.jpg">
+
+                    <img
+                        src="images/hoodie.jpg"
+                        alt="White hoodie"
+                        loading="lazy">
+
+                </picture> 
+                
+                <span class="product-label">
+                    POPULAR
+                </span>
+
+            </div>
+            
+            <div class="product-information">
+
+                <p class="product-category">
+                    Women
+                </p>
+
+                <h3>Casaul Hoodie</h3>
+
+                 <p>
+                Warm and comfortable hoodie for everyday activities.
+                </p>
+                
+                <div class="product-bottom">
+
+                    <strong>Price: R400.00</strong>
+
+                    <button type="button">Add to Cart</button>
+
+
+                </div>
+            </div>
+
+        </article>
+
+        <!-- Product 4 -->
+
+         <article class="product-card">
+
+            <div class="product-image">
+
+                <picture>
+
+                    <source
+                        media="(max-width: 600px)"
+                        srcset="images/woolshirt.jpg">
+
+                    <img
+                        src="images/woolshirt.jpg"
+                        alt="Black Wool Shirt"
+                        loading="lazy">
+
+                </picture> 
+                
+                <span class="product-label">
+                    NEW
+                </span>
+
+            </div>
+            
+            <div class="product-information">
+
+                <p class="product-category">
+                    Men
+                </p>
+
+                <h3>Wool Shirt</h3>
+
+                 <p>Lightweight wool shirt with a simple and morden design.</p>
+
+                
+                <div class="product-bottom">
+
+                <strong>Price: R210.00</strong>
+
+                <button type="button">Add to Cart</button>
+
+                </div>
+
+            </div>
+
+        </article>
+
+        <!-- Product 5 -->
+
+        <article class="product-card">
+
+            <div class="product-image">
+
+                <picture>
+
+                    <source
+                        media="(max-width: 600px)"
+                        srcset="images/cargopants.jpg">
+
+                    <img
+                        src="images/cargopants.jpg"
+                        alt="Cargo Pants"
+                        loading="lazy">
+
+                </picture> 
+                
+                <span class="product-label">
+                    TRENDING
+                </span>
+
+            </div>
+            
+            <div class="product-information">
+
+                <p class="product-category">
+                    Men
+                </p>
+
+                <h3>Cargo Pants</h3>
+
+                 <p>Urban comfortable pants with a modern casual style.</p>
+
+                
+                <div class="product-bottom">
+
+                <strong>Price: R490.00</strong>
+
+                <button type="button">Add to Cart</button>
+
+                </div>
+
+            </div>    
+
+        </article>
+
+        
+    </section>
+
+    <!-- ========================
+        CATEGORIES 
+    ========================  -->
+
+    <section id="categories" 
+    class="categories-section">
+
+        <div class="container">
+
+            <div class="section-heading">
+
+                <p class="small-heading">
+                    FIND YOUR STYLE
+                </p>
+
+                <h2>
+                    Shop By Category
+                </h2>
+
+                <p>Choose a clothing category to explore our collection.</p>
+
+            </div>
+
+            <div class="category-grid">
+
+                <a href="#shop" class="category-card women-category">
+
+                    <div class="category-content"></div>
+
+                        <h3>
+                            Womens's Fashion
+                        </h3>
+
+                        <p>
+                           Mordern and comfortable
+                        </p>
+
+                        <span>
+                            Shop Women 
+                        </span>
+
+                    </div>
+                </a>
+                
+             <div class="category-grid">
+
+                <a href="#shop" class="category-card women-category">
+
+                    <div class="category-content"></div>
+
+                        <h3>
+                            Mens's Fashion
+                        </h3>
+
+                        <p>
+                           Clean and Confident
+                        </p>
+
+                        <span>
+                            Shop Men 
+                        </span>
+
+                    </div>
+                </a>
+                
+                <div class="category-grid">
+
+                <a href="#shop" class="category-card unisex-category">
+
+                    <div class="category-content"></div>
+
+                        <h3>
+                            Unisex Fashion
+                        </h3>
+
+                        <p>
+                           Easy styles for everyone
+                        </p>
+
+                        <span>
+                            Shop Unisex
+                        </span>
+
+                    </div>
+                </a>        
+            </div>
+        </div>
+
+        
+
+       
+    </section>
+
+    <!-- =======================
+         ABOUT SECTION
+    =====================     -->
+
+    <section id="about" class="about-section">
+
+        <div class="container about-grid">
+
+            <div class="about-image">
+
+                <picture>
+
+                    <img
+                        src="images/deminjacket.jpg"
+                        alt="Quick-Shop clothing collection"
+                        loading="lazy">
+                </picture>
+            </div>
+
+            <div class="about-content">
+
+                <p class="small-heading">
+                    ABOUT QUICK-SHOP
+                </p>
+
+                <h2>
+                    fashion without the complicated part.
+                </h2>
+
+                <p>
+                    Quick-Shop is a retail store from the KwaZulu-Natal Midlands that was founded in 2004,
+                    created to provide customers with convenient access to affordable and stylish clothing
+                    across South Africa.
+                </p>
+
+                 <p>
+                    Our store offers a variety of clothing for men and women looking for unisex fashion. We
+                    aim to make shopping simple, convenient and enjoyable.
+                </p>
+
+                <ul class="benefits-list">
+
+                    <ul>
+                        <li>Affordable clothing</li>
+                        <li>Different clothing styles</li>
+                        <li>Easy online shopping</li>
+                        <li>Quality products</li>
+                        <li>Customer-focused service</li>
+                    </ul>
+
+
+                </ul>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- =====================
+         CONTACT SECTION
+    ==================     -->
+
+    <section id="contact" class="contact-section">
+
+        <div class="container">
+
+            <div class="section-heading">
+
+                <p class="small-heading">
+                    CONTACT US
+                </p>
+
+                <h2>
+                    We'd love to hear from you.
+                </h2>
+
+                <p>
+                    Complete the form below if you any questions about Quick-Shop.
+                </p>
+            </div>
+
+            <div class="contact-grid">
+
+                <!-- Contact information -->
+
+                <div class="contact-information">
+
+                    <h3>
+                        Get In Touch
+                    </h3>
+
+                    <p>
+                        Our team is ready to assist with your shopping questions.
+                    </p>
+
+                    <div class="contact-item">
+
+                        <strong>
+                            Email
+                        </strong>
+
+                        <p>
+                            info@quick-shop.co.za
+                        </p>
+
+
+                    </div>
+
+                    <div class="contact-item">
+
+                        <strong>
+                            Phone
+                        </strong>
+
+                        <p>
+                            033 092 7224
+                        </p>
+
+                    </div>
+
+                    <div class="contact-item">
+
+                        <strong>
+                            Location
+                        </strong>
+
+                        <p>
+                            Pietermaritzburg, KwaZulu-Natal. SA
+                        </p>
+
+                    </div>
+                </div>
+
+
+                <!-- Contact form -->
+
+                <form class="contact-form">
+
+                    <label for="name">
+                        Full Name
+                    </label>
+
+                    <input
+                        type="text"
+                        id="name"
+                        name="name"
+                        placeholder="Enter your full name"
+                        required>
+
+                    <label for="email">
+                        Email Adress
+                    </label>
+
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        placeholder="Enter your email adress"
+                        required>
+
+                    <label for="subject">
+                        Subject
+                    </label>
+                    
+                    <input
+                        type="text"
+                        id="subject"
+                        name="subject"
+                        placeholder="Enter your subject"
+                        required>
+
+                    <button
+                        type="submit"
+                        class= "button primary-button">
+                        Send Message
+                    </button>    
+
+                           
+                </form>
+            </div>
+        </div>
+
+    </section>
+</main>
+
+    <!-- =====================
+         FOOTER
+    ====================== -->
+
+    <footer class="footer">
+
+        <div class="container footer-content">
+
+            <div>
+
+                <a href="#home" class="logo footer-logo">
+
+                    <span class="logo-circle">
+                        Q
+                    </span>
+
+                    <span>
+                        Quick<span>-Shop</span>
+                    </span>
+                </a>
+
+                 <p>
+                    Fashion made easy.
+                </p>
+
+            </div>
+
+            <div class="footer-links">
+
+                <a href="#home">
+                    Home
+                </a>
+
+                <a href="#shop">
+                    Shop
+                </a>
+
+                <a href="#about">
+                    About
+                </a>
+
+                <a href="#contact">
+                    Contact
+                </a>
+
+            </div>
+
+            <div>
+
+                <p>
+                   &copy; 2026 Quick-Shop. All Rights Reserved.
+                </p>
+
+            </div>
+        </div>
+
+        <p>
+            <a href="#home">Back to Top</a>
+        </p>
+
+    </footer>
+
+
+</body>
+
+</html>
