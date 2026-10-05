@@ -16,7 +16,10 @@ All that i have added on this website goes with what is required from me to plea
 it has helped me craft this website.
 Using CSS helped me code this website using the right fonts, colors and background colors so that everything can look professional and presentable to both the quick-shop customers and staff.
 I added colors that make sense for a fashion shop website.
-I also avoided color contrasting when i was coding the CSS. The buttons and the background colors were made not to mix and confuse the uses, with also keeping in mind that ease on the eye and kept professional. 
+I also avoided color contrasting when i was coding the CSS. The buttons and the background colors were made not to mix and confuse the uses, with also keeping in mind that ease on the eye and kept professional.
+
+My Website Link:
+file:///C:/Users/emeris/Documents/GitHub/WEDE_PART_2/index.html#shop
 
 These Are My Website Screenshots.
 
