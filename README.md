@@ -16,7 +16,6 @@ All that i have added on this website goes with what is required from me to plea
 it has helped me craft this website.
 
 These Are My Website Screenshots.
-<img width="1915" height="941" alt="Screenshot 2026-10-05 141310" src="https://github.com/user-attachments/assets/07b740bd-f7a9-4a5b-94a7-38137490d8a3" />
 
 <img width="1910" height="861" alt="Screenshot 2026-10-05 141007" src="https://github.com/user-attachments/assets/43bc1646-7eb7-4d78-8a81-af6fbbc96eec" />
 
@@ -29,3 +28,6 @@ These Are My Website Screenshots.
 <img width="1899" height="926" alt="Screenshot 2026-10-05 141218" src="https://github.com/user-attachments/assets/7e4c3aa9-d768-42f4-a193-7b0fa2193b48" />
 
 <img width="1912" height="942" alt="Screenshot 2026-10-05 141246" src="https://github.com/user-attachments/assets/ccab5d30-4006-4479-846e-d548bda1ceeb" />
+
+<img width="1915" height="941" alt="Screenshot 2026-10-05 141310" src="https://github.com/user-attachments/assets/dc1c0c8c-8fbd-4af2-bf7f-680fe3bfafb8" />
+
